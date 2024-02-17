@@ -2,8 +2,7 @@
 
 **`(Aspiring Software Developer)`**
 
-I'm A computer science student who has a passion for technology, all the projects listed and showcased were built group up using my own problem solving skills. Each project includes a read me describing the purpose of the code the techonlogies i used and what i learned along the way along with a demo.The best thing about coding is turning an idea into a plan and eventually into a working product.
-
+As a computer science student with a passion for technology, I've built each of the showcased projects from the ground up, employing my own problem-solving skills. Each project includes a README file describing the purpose of the code, the technologies I used, and what I learned along the way, along with a demo. The best thing about coding is turning an idea into a plan and eventually into a working product.
 ---
 
 ### 🧰 Languages/FrameWorks
