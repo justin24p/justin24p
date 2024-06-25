@@ -6,6 +6,7 @@ As a computer science student with a passion for technology, I've built each of 
 
 ![Banner](justin-pardo.jpg)
 ---
+
 ## 🚀 Skills
 
 ### Languages
@@ -42,5 +43,8 @@ As a computer science student with a passion for technology, I've built each of 
   <img alt="Object-Oriented Programming" src="https://img.shields.io/badge/OOP-%23000000.svg?&style=for-the-badge"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+## 📈 GitHub Stats
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justin24p&theme=tokyonight)
 
 
